@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qt3qsb.salamcuan.sbs/sitemap.xml
